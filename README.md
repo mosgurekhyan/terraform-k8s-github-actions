@@ -1,5 +1,3 @@
-# DevOps Homework
-
 Terraform · Kubernetes · GitHub Actions
 
 ---
