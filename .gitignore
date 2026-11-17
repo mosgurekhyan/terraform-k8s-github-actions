@@ -1,0 +1,10 @@
+# Terraform cache
+.terraform/
+**/.terraform/*
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Ignore the lock file
+.terraform.lock.hcl
